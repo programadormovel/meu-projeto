@@ -101,7 +101,7 @@ git remote add origin https://github.com/SEU_USUARIO/meu-projeto.git
 git push -u origin main
 ```
 
-Agora o projeto já está no GitHub ??
+Agora o projeto já está no GitHub
 
 ---
 
@@ -165,7 +165,7 @@ A branch agora está disponível no GitHub.
 
 # 7. Realizando o Merge na Branch Main
 
-## ? Método Recomendado: Pull Request (via GitHub)
+## Método Recomendado: Pull Request (via GitHub)
 
 1. Acesse o repositório no GitHub
 2. Clique em **Compare & pull request**
@@ -250,16 +250,16 @@ git push origin main
 
 ```
 meu-projeto/
-?
-??? public/
-??? src/
-?   ??? App.jsx
-?   ??? main.jsx
-?   ??? assets/
-?
-??? package.json
-??? vite.config.js
-??? README.md
+
+public/
+src/
+ App.jsx
+ main.jsx
+ assets/
+
+package.json
+vite.config.js
+README.md
 ```
 
 ---
@@ -286,10 +286,10 @@ Projeto para fins educacionais.
 
 Se quiser, posso gerar agora:
 
-- ?? Versão com badges (React, Vite, GitHub)
-- ?? Padrão profissional com Conventional Commits
-- ?? README mais corporativo para portfólio
-- ?? Versão pronta para deploy na Vercel
+- Versão com badges (React, Vite, GitHub)
+- Padrão profissional com Conventional Commits
+- README mais corporativo para portfólio
+- Versão pronta para deploy na Vercel
 
 Só me dizer qual você prefere.
 ```
