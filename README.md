@@ -279,17 +279,3 @@ Este projeto demonstra um fluxo básico e profissional de desenvolvimento utiliza
 # Licença
 
 Projeto para fins educacionais.
-
-```
-
----
-
-Se quiser, posso gerar agora:
-
-- Versão com badges (React, Vite, GitHub)
-- Padrão profissional com Conventional Commits
-- README mais corporativo para portfólio
-- Versão pronta para deploy na Vercel
-
-Só me dizer qual você prefere.
-```
