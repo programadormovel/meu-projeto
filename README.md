@@ -3,20 +3,20 @@ Segue o **README.md completo** pronto para você copiar e colar no seu projeto:
 ---
 
 ````markdown
-# ?? Guia Completo — React + Vite + Git + GitHub
+# Guia Completo — React + Vite + Git + GitHub
 
 Este projeto documenta o passo a passo completo para:
 
-- ? Criar um projeto ReactJS utilizando Vite
-- ? Inicializar o Git
-- ? Subir o projeto para o GitHub
-- ? Criar uma nova branch
-- ? Realizar uma alteração
-- ? Fazer merge da branch na `main`
+- Criar um projeto ReactJS utilizando Vite
+- Inicializar o Git
+- Subir o projeto para o GitHub
+- Criar uma nova branch
+- Realizar uma alteração
+- Fazer merge da branch na `main`
 
 ---
 
-# ?? Tecnologias Utilizadas
+# Tecnologias Utilizadas
 
 - React
 - Vite
@@ -26,7 +26,7 @@ Este projeto documenta o passo a passo completo para:
 
 ---
 
-# ?? Pré-requisitos
+# Pré-requisitos
 
 Antes de começar, é necessário ter instalado:
 
@@ -45,7 +45,7 @@ git --version
 
 ---
 
-# ?? 1. Criando o Projeto React com Vite
+# 1. Criando o Projeto React com Vite
 
 No terminal, execute:
 
@@ -64,7 +64,7 @@ http://localhost:5173
 
 ---
 
-# ?? 2. Inicializando o Git no Projeto
+# 2. Inicializando o Git no Projeto
 
 Dentro da pasta do projeto:
 
@@ -82,7 +82,7 @@ git branch -M main
 
 ---
 
-# ?? 3. Criando e Conectando ao Repositório no GitHub
+# 3. Criando e Conectando ao Repositório no GitHub
 
 ## 3.1 Criar repositório no GitHub
 
@@ -105,7 +105,7 @@ Agora o projeto já está no GitHub ??
 
 ---
 
-# ?? 4. Criando uma Nova Branch
+# 4. Criando uma Nova Branch
 
 Criar uma branch para nova funcionalidade:
 
@@ -127,7 +127,7 @@ git branch
 
 ---
 
-# ?? 5. Realizando uma Pequena Alteração
+# 5. Realizando uma Pequena Alteração
 
 Exemplo:
 
@@ -151,7 +151,7 @@ npm run dev
 
 ---
 
-# ?? 6. Commitando e Enviando a Nova Branch
+# 6. Commitando e Enviando a Nova Branch
 
 ```bash
 git add .
@@ -163,7 +163,7 @@ A branch agora está disponível no GitHub.
 
 ---
 
-# ?? 7. Realizando o Merge na Branch Main
+# 7. Realizando o Merge na Branch Main
 
 ## ? Método Recomendado: Pull Request (via GitHub)
 
@@ -184,7 +184,7 @@ git pull
 
 ---
 
-## ?? Método Alternativo: Merge via Terminal
+## Método Alternativo: Merge via Terminal
 
 ```bash
 git switch main
@@ -195,7 +195,7 @@ git push origin main
 
 ---
 
-# ?? 8. Removendo a Branch Após o Merge
+# 8. Removendo a Branch Após o Merge
 
 Remover branch local:
 
@@ -211,7 +211,7 @@ git push origin --delete feature/ajuste-texto
 
 ---
 
-# ?? Fluxo Completo Resumido
+# Fluxo Completo Resumido
 
 ```bash
 # Criar projeto
@@ -246,7 +246,7 @@ git push origin main
 
 ---
 
-# ?? Estrutura do Projeto
+# Estrutura do Projeto
 
 ```
 meu-projeto/
@@ -264,7 +264,7 @@ meu-projeto/
 
 ---
 
-# ?? Objetivo
+# Objetivo
 
 Este projeto demonstra um fluxo básico e profissional de desenvolvimento utilizando:
 
@@ -276,7 +276,7 @@ Este projeto demonstra um fluxo básico e profissional de desenvolvimento utiliza
 
 ---
 
-# ?? Licença
+# Licença
 
 Projeto para fins educacionais.
 
